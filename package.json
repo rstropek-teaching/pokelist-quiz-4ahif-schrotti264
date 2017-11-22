@@ -1,0 +1,27 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/pokelist-quiz-4ahif-schrotti264.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/pokelist-quiz-4ahif-schrotti264/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/pokelist-quiz-4ahif-schrotti264#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.2.16",
+    "@types/node": "^8.0.53",
+    "tsc": "^1.20150623.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
